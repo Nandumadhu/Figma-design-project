@@ -1,0 +1,24 @@
+.customer-details {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .chat-section .tabs button {
+    margin-right: 10px;
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .chat-section .chat-box {
+    background: #f1f1f1;
+    padding: 15px;
+    margin-top: 10px;
+  }
+  

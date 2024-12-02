@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './action-panel.component.html',
-  styleUrl: './action-panel.component.css'
+  styleUrls: ['./action-panel.component.css']
 })
 export class ActionPanelComponent {
 

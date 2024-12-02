@@ -10,3 +10,12 @@
     background-color: #f9f9f9;
     overflow-y: auto;
 }
+
+@media (max-width: 768px){
+    .dashboard-container {
+        grid-template-columns: 1fr;
+    }
+    .sidebar{
+        display: none;
+    }
+}
